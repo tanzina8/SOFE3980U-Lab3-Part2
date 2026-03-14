@@ -1,7 +1,7 @@
 package com.ontariotechu.sofe3980U;
 
 /**
- * Unsigned integer Binary variable 
+ * Unsigned integer Binary variable  
  *
  */
 public class Binary
